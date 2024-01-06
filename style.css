@@ -1,0 +1,35 @@
+.hero{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.footer{
+    width: 100%;
+    height: auto;
+    margin-top: 2%;
+}
+
+a:hover{
+  opacity: 0.8;
+    
+}
+span{
+    font-size: 10px;
+}
+
+
+
+
+
+
+
